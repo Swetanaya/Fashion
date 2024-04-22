@@ -9,14 +9,17 @@
     a new account.
 
 # Registration account
-   A signup page is a web page designed to collect information of users .It typically includes form fields for users to input their personal 
-   information, such as name, email address, username, password, and sometimes additional details depending on the service being signed up 
-   for.
+   A signup page is a web page designed to collect information of users .It typically includes form fields for users to input their 
+   personal information, such as name, email address, username, password, and sometimes additional details depending on the service being 
+   signed up.
    User name: It is a special name given by a user to uniquely identify them on a website. While any notification website is able to call 
    them by their name.
-   With user name user should have to provide emial ,mobile number,Password and conform password etc are the criteria to sign up Trade trunk 
+   With user name user should have to provide emial ,mobile number,Password and conform password etc are the criteria to sign up Trade 
+   trunk 
    page.
-
+# Home page
+   A home page is the default or front page of the site.The primary goal of Homepage is to make the visitor feel welcome and then provide 
+   Information and navigation about what can be found on site.
 
 
 
